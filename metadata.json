@@ -1,0 +1,6 @@
+{
+  "name": "GameVault - Real-Time Game Database",
+  "description": "คลังเกมออนไลน์จากเซิร์ฟเวอร์จริง ดึงข้อมูลเกม สเปกพีซี ภาพหน้าจอ และลิงก์ดาวน์โหลดแบบเรียลไทม์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
